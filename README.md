@@ -13,11 +13,12 @@
 
 <p>💬 Ask me about CSS, Javascript, React, Next and Frontend Stuff or maybe an Algorithmic question from Leetcode 😋</p>
 
-<p>✋ Reach out to me at: <a href="mailto:arjunsabu99@gmail.com">arjunsabu99@gmail.com</a></b></p>
+<p>✋ Reach out to me at: <b><a href="mailto:arjunsabu99@gmail.com">arjunsabu99@gmail.com</a></b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arjun-sabu-9794661a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-sabu" height="30" width="40" /></a>
+<a href="mailto:arjunsabu99@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://cdn-icons-png.flaticon.com/512/732/732200.png)" alt="arjun-sabu" height="30" width="40" /></a>
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
