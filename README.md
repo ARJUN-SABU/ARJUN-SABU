@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">A passionate Frontend Web Developer.</h3>
-<h3>Final year B.Tech CSE @BVCOE(GGSIPU), New Delhi.</h3>
+<h3 align="center">Final year B.Tech CSE @BVCOE(GGSIPU), New Delhi.</h3>
+<br>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
 - 🔭 I’m currently working on **polishing my Frontend Skills and Problem Solving using Data Structures and Algorithms.**
