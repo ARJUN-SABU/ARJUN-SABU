@@ -7,7 +7,7 @@
 
 <p>🎉 I’m currently polishing my <b>Frontend Skills</b>. Playing around with React and CSS Libraries & Frameworks.</p>
 
-<p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and applying some <b>Data Structures and Algorithms</b>.</p>
+<p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and applying some <b>Data Structures and Algorithms</b> in Java Language.</p>
 
 <p>🌱 I’m also learning <b>Backend development</b> with Node.js and Express.js. Gotta be a Full Stack Web Developer :)</p>
 
