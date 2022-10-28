@@ -13,7 +13,7 @@
 
 <p>💬 Ask me about CSS, Javascript, React, Next and Frontend Stuff or maybe an Algorithmic question from Leetcode 😋</p>
 
-<p>✋ Reach out to me at: <a href="arjunsabu99@gmail.com">arjunsabu99@gmail.com</a></b></p>
+<p>✋ Reach out to me at: <a href="mailto:arjunsabu99@gmail.com">arjunsabu99@gmail.com</a></b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
