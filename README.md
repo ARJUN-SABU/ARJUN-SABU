@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Arjun</h1>
+<h1 align="center">Hi 👋, I'm Arjun Sabu</h1>
 <h3 align="center">A passionate Frontend Web Developer.</h3>
 <h3 align="center">Final year B.Tech CSE @BVCOE(GGSIPU), New Delhi.</h3>
 <br>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
 
-<p>🎉 I’m currently polishing my Frontend Skills. Playing around with React and CSS Libraries & Frameworks.</p>
+<p>🎉 I’m currently polishing my <b>Frontend Skills</b>. Playing around with React and CSS Libraries & Frameworks.</p>
 
-<p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and applying some Data Structures and Algorithms.</p>
+<p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and applying some <b>Data Structures and Algorithms</b>.</p>
 
-<p>🌱 I’m also learning Backend development with Node.js and Express.js. Gotta be a Full Stack Web Developer :)</p>
+<p>🌱 I’m also learning <b>Backend development</b> with Node.js and Express.js. Gotta be a Full Stack Web Developer :)</p>
 
 <p>💬 Ask me about CSS, Javascript, React, Next and Frontend Stuff or maybe an Algorithmic question from Leetcode 😋</p>
 
@@ -18,6 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arjun-sabu-9794661a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-sabu" height="30" width="40" /></a>
+
+<h3 align="left">Coding Profiles</h3>
+<p align="left">
 <a href="https://www.hackerrank.com/arjunsabu99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjunsabu99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arjunsabu99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjunsabu99" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arjunsabu99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjunsabu99" height="30" width="40" /></a>
