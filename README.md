@@ -10,7 +10,7 @@
 
 <p>💬 Ask me about **CSS, Javascript, React, Next and Frontend Stuff or maybe an Algorithmic question from Leetcode :)**</p>
 
-<p>📫 How to reach me **arjunsabu99@gmail.com**</p>
+<p>📫 How to reach me <b>arjunsabu99@gmail.com</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
