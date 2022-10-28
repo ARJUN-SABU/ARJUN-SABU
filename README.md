@@ -5,15 +5,15 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
 
-<p>🎉 I’m currently polishing my Frontend Skills. Playing around with React and CSS Libraries & Frameworks </p>
+<p>🎉 I’m currently polishing my Frontend Skills. Playing around with React and CSS Libraries & Frameworks.</p>
 
-<p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and applying some Data Structures and Algorithms skills.</p>
+<p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and applying some Data Structures and Algorithms.</p>
 
-<p>🌱 I’m also learning Backend development with Node.js and Express.js. Gotta be a Full Stack Developer :)</p>
+<p>🌱 I’m also learning Backend development with Node.js and Express.js. Gotta be a Full Stack Web Developer :)</p>
 
-<p>💬 Ask me about CSS, Javascript, React, Next and Frontend Stuff or maybe an Algorithmic question from Leetcode :)</p>
+<p>💬 Ask me about CSS, Javascript, React, Next and Frontend Stuff or maybe an Algorithmic question from Leetcode 😋</p>
 
-<p>✋ Reach out to me at: <b>arjunsabu99@gmail.com</b></p>
+<p>✋ Reach out to me at: <a href="arjunsabu99@gmail.com">arjunsabu99@gmail.com</a></b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
