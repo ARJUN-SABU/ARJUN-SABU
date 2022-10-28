@@ -4,20 +4,16 @@
 <br>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
-<h4> I am currently doing the following things: </h4>
-<p>
-  <span>🎉 I’m currently polishing my Frontend Skills.</span><br>
-  <span>⚽️ Playing around with React and CSS Libraries & Frameworks</span>
-</p>
-<p>✨ I’m currently polishing my Frontend Skills. Playing around with React <br/>and CSS Libraries & Frameworks.</p>
 
-<p>🧑🏼‍💻 I’m Problem Solving using Data Structures and Algorithms.**</p>
+<p>🎉 I’m currently polishing my Frontend Skills. Playing around with React and CSS Libraries & Frameworks </p>
 
-<p>🌱 I’m currently learning **Backend development with Node.js and Express.js.**</p>
+<p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and applying some Data Structures and Algorithms skills.</p>
 
-<p>💬 Ask me about **CSS, Javascript, React, Next and Frontend Stuff or maybe an Algorithmic question from Leetcode :)**</p>
+<p>🌱 I’m also learning Backend development with Node.js and Express.js. Gotta be a Full Stack Developer :)</p>
 
-<p>📫 Reach out to me at: <b>arjunsabu99@gmail.com</b></p>
+<p>💬 Ask me about CSS, Javascript, React, Next and Frontend Stuff or maybe an Algorithmic question from Leetcode :)</p>
+
+<p>✋ Reach out to me at: <b>arjunsabu99@gmail.com</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
