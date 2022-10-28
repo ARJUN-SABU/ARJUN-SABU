@@ -4,9 +4,8 @@
 <br>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
-
-
-<p>🏼‍✨ I’m currently polishing my Frontend Skills. Playing around with React and CSS Libraries & Frameworks.</p>
+<p>
+<p>✨ I’m currently polishing my Frontend Skills. Playing around with React <br/>and CSS Libraries & Frameworks.</p>
 
 <p>🧑🏼‍💻 I’m Problem Solving using Data Structures and Algorithms.**</p>
 
