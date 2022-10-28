@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">A passionate Frontend Web Developer.</h3><h3 align="center">Final year B.Tech CSE @BVCOE(GGSIPU), New Delhi.</h3>
+<h3 align="center">A passionate Frontend Web Developer.</h3>
+<h3 align="center">Final year B.Tech CSE @BVCOE(GGSIPU), New Delhi.</h3>
 <br>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
-<p>🔭 I’m currently working on **polishing my Frontend Skills and Problem Solving using Data Structures and Algorithms.**</p>
+
+
+<p>🏼‍✨ I’m currently polishing my Frontend Skills. Playing around with React and CSS Libraries & Frameworks.</p>
+
+<p>🧑🏼‍💻 I’m Problem Solving using Data Structures and Algorithms.**</p>
 
 <p>🌱 I’m currently learning **Backend development with Node.js and Express.js.**</p>
 
 <p>💬 Ask me about **CSS, Javascript, React, Next and Frontend Stuff or maybe an Algorithmic question from Leetcode :)**</p>
 
-<p>📫 How to reach me <b>arjunsabu99@gmail.com</b></p>
+<p>📫 Reach out to me at: <b>arjunsabu99@gmail.com</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
