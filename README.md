@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun Sabu</h1>
 <h3 align="center">A passionate Programmer and Problem Solver.</h3>
-<h3 align="center">B.Tech in Computer Science & Engineering, BVCOE(GGSIPU), New Delhi. 2023 Graduate</h3>
+<h3 align="center">B.Tech in Computer Science & Engineering, BVCOE(GGSIPU), New Delhi. 2023 Graduate.</h3>
 <br>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
