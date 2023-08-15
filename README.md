@@ -5,13 +5,13 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
 
-<p>🎉 I’m currently polishing my <b>Frontend Skills</b>. Playing around with React and CSS Libraries & Frameworks.</p>
+<p>🎉 I’m currently polishing my <b>Frontend Skills</b>. Playing around with React.js, Next.js and CSS Libraries & Frameworks.</p>
 
-<p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and applying some <b>Data Structures and Algorithms</b> in Java Language.</p>
+<p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and using <b>Data Structures and Algorithms</b> in Java Language.</p>
 
-<p>🌱 I’m also learning <b>Backend development</b> with Node.js and Express.js. Gotta be a Full Stack Web Developer :)</p>
+<p>🌱 I’m also learning <b>Backend development</b> with Node.js and Express.js and building Full Stack side projects :)</p>
 
-<p>💬 Ask me about CSS, Javascript, React, Next and Frontend Stuff or maybe an Algorithmic question from Leetcode 😋</p>
+<p>💬 Ask me about Frontend or Backend Web Development or maybe an Algorithmic question from Leetcode or maybe we can have a discussion on how real world systems function at such a large scale 😋</p>
 
 <p>✋ Reach out to me at: <b><a href="mailto:arjunsabu99@gmail.com">arjunsabu99@gmail.com</a></b></p>
 
