@@ -5,7 +5,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
 
-<p>🎉 I’m currently polishing my <b>Frontend Skills</b>. Playing around with React.js, Next.js and CSS Libraries & Frameworks.</p>
+<p>🎉 I’m currently building amazing features for the Flipkart app and also polishing my <b>Frontend Skills</b>. Playing around with React.js, Next.js and CSS Libraries & Frameworks.</p>
 
 <p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and using <b>Data Structures and Algorithms</b> in Java Language.</p>
 
