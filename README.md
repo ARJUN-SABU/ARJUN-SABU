@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Sabu</h1>
-<h3 align="center">A passionate Programmer and Problem Solver.</h3>
+<h3 align="center">A Builder and Problem Solver.</h3>
 <h3 align="center">Software Development Engineer 2 @ Flipkart</h3>
 <br>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
