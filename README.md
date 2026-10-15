@@ -5,7 +5,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
 
-<p>🎉 building scalable, user-facing features across Cart, Checkout, and Product pages on the Flipkart App and also polishing my <b>Frontend</b> and <b>Backend</b> skills. Playing around with React.js, React Native, Typescript, Node.js</p>
+<p>🎉 Building scalable, user-facing features across Cart, Checkout, and Product pages on the Flipkart App and also polishing my <b>Frontend</b> and <b>Backend</b> skills. Playing around with React.js, React Native, Typescript, Node.js</p>
 
 <p>🌱 I’m also learning <b>Backend development</b> with Java and Spring boot and building Full Stack side projects.</p>
 
