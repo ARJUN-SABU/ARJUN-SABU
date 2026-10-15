@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Arjun Sabu</h1>
 <h3 align="center">A passionate Programmer and Problem Solver.</h3>
-<h3 align="center">Software Development Engineer 1 @ Flipkart</h3>
+<h3 align="center">Software Development Engineer 2 @ Flipkart</h3>
 <br>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" -->
 
 
-<p>🎉 I’m currently building amazing features for the Flipkart app and also polishing my <b>Frontend Skills</b>. Playing around with React.js, React Native, Typescript.</p>
+<p>🎉 building scalable, user-facing features across Cart, Checkout, and Product pages on the Flipkart App and also polishing my <b>Frontend</b> and <b>Backend</b> skills. Playing around with React.js, React Native, Typescript, Node.js</p>
 
-<p>🌱 I’m also learning <b>Backend development</b> with Node.js and Express.js and building Full Stack side projects :) Also planning to try out Spring and Java backend development.</p>
+<p>🌱 I’m also learning <b>Backend development</b> with Java and Spring boot and building Full Stack side projects.</p>
+
+<p>🌱 I’m also expanding my knowledge about <b>LLMS, RAG, MCPs and AI Stuff</b>.</p>
 
 <p>🧑🏼‍💻 I’m also solving Algorithmic Problems on Leetcode and using <b>Data Structures and Algorithms</b> in Java Language.</p>
 
-<p>💬 Ask me about Frontend or Backend Web Development or maybe an Algorithmic question from Leetcode or maybe we can have a discussion on how real world systems function at such a large scale 😋</p>
+<p>🧑🏼‍💻 Apart from coding, I am also trying to understand how large scale distributed systems are designed serving millions if not billions of users.</p>
+
+<p>💬 Ask me about Frontend or Backend Development or about AI, ML, RAGs and ML ecosystem or System Design or maybe an Algorithmic question from Leetcode or maybe we can have a discussion on how real world systems function at such a large scale 😋</p>
 
 <p>✋ Reach out to me at: <b><a href="mailto:arjunsabu99@gmail.com">arjunsabu99@gmail.com</a></b></p>
 
